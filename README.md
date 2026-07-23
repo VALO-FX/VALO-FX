@@ -23,7 +23,7 @@
 
 ---
 
-### Hi there, I'm VALO.FX 🖐️
+## 📬 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valo-fx-49b0a3424)
 
