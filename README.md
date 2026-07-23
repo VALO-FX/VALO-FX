@@ -27,6 +27,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valo-fx-49b0a3424)
 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+
+---
 
 ## 💳 Payment & Terms
 - **Accepted Payments:** Crypto-friendly (USDT / USDC via TRC20 / ERC20 / Solana).
