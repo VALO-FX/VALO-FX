@@ -23,10 +23,5 @@
 
 ---
 
-### 📊 System Status & Metrics
-
-```text
-[VALO.FX Architecture]
-├── Flow Execution     : OPTIMIZED
-├── System Uptime       : 99.9%
-└── Logic Efficiency   : MAXIMUM
+### 📊 GitHub Stats
+![VALO-FX Stats](https://github-readme-stats.vercel.app/api?username=VALO-FX&show_icons=true&theme=dark)
