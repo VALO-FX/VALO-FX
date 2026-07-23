@@ -23,5 +23,11 @@
 
 ---
 
+###Hi there, I'm VALO.FX 🖐️
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valo-fx-49b0a3424)
+
+
+
 ### 📊 GitHub Stats
 ![VALO-FX Stats](https://github-readme-stats.vercel.app/api?username=VALO-FX&show_icons=true&theme=dark)
