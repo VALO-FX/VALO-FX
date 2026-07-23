@@ -28,6 +28,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valo-fx-49b0a3424)
 
 
+## 💳 Payment & Terms
+- **Accepted Payments:** Crypto-friendly (USDT / USDC via TRC20 / ERC20 / Solana).
+- **Process:** Milestone-based payments for project deliveries.
 
 ### 📊 GitHub Stats
 ![VALO-FX Stats](https://github-readme-stats.vercel.app/api?username=VALO-FX&show_icons=true&theme=dark)
